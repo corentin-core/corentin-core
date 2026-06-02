@@ -1,21 +1,14 @@
 # Hi, I'm Corentin
 
-CentraleSupélec & Arts et Métiers graduate. I spent my early career in wind energy operations before pivoting to software development in 2020.
+I'm a backend engineer at Elum Energy. I came to software the long way round: seven years in wind energy operations first, then a switch to development in January 2020.
 
-I now build embedded energy management systems in C++ and Python — real-time control, microservices, MQTT. I care about clean architecture and good developer tooling.
+These days I work on the embedded systems that run hybrid solar plants: real-time control in C++, the Python services around it, and whatever tooling keeps the codebase sane to work in.
 
-Lately, I've been deep into AI-assisted development — from coding workflows to building AI pipelines for industrial automation.
+Off the clock I'm learning Rust by building [ruxe](https://github.com/corentin-core/ruxe), a small Redux-inspired state-management library, and I keep a few Python tools running for myself like [budget-forecaster](https://github.com/corentin-core/budget-forecaster). I write some of it up on [my blog](https://corentin-core.github.io).
 
-Outside of work, I cook, take photos, and spend what's left of my free time building tools I actually use — like **[budget-forecaster](https://github.com/corentin-core/budget-forecaster)**, a personal finance CLI built with Python and Textual.
+I've also shipped an LLM pipeline at work, and I lean on AI coding tools enough that I built my own config manager for them ([claude-nexus](https://github.com/corentin-core/claude-nexus)).
 
-## Tech stack
+**Mostly:** Python · C++17 · MQTT · SQLite · Linux · GitLab CI
+**Also:** Rust · Docker
 
-**Daily:** Python, C++17, MQTT, SQLite, GitLab CI/CD, Linux embedded
-
-**Also comfortable with:** pybind11, Docker, MkDocs, Claude Code
-
-## What I care about
-
-- Clean architecture that scales with the team, not just the codebase
-- Developer experience — devcontainers, CI pipelines, tooling that removes friction
-- Bridging the gap between energy engineering and software
+Away from a screen I cook (I've got a cooking certificate and even worked in kitchens before I ever wrote code) and shoot street photography. I'm also a nostalgic gamer on indefinite pause thanks to a young family, but I haven't given up on getting back to it one day.
